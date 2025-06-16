@@ -1,6 +1,6 @@
 # CloudTran
 
-> :artificial_satellite: Source code accompanying the paper [CloudTran++: Improved cloud removal from multi-temporal satellite images using axial transformer networks]() under review at [MDPI Remote Sensing](https://www.mdpi.com/journal/remotesensing) journal.
+> :artificial_satellite: Source code accompanying the paper [CloudTran++: Improved cloud removal from multi-temporal satellite images using axial transformer networks](https://www.mdpi.com/journal/remotesensing).
 >
 > :bulb: Inspired by [Colorization Transformer](https://arxiv.org/abs/2102.04432)
 >
