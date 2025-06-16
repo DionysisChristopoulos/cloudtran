@@ -304,6 +304,22 @@ Sampling can be parallelized across batches in a multi-GPU setup with the flag `
 
 ## Citation
 
+If you find this work useful, please cite our paper:
+```
+@Article{rs17010086,
+AUTHOR = {Christopoulos, Dionysis and Ntouskos, Valsamis and Karantzalos, Konstantinos},
+TITLE = {CloudTran++: Improved Cloud Removal from Multi-Temporal Satellite Images Using Axial Transformer Networks},
+JOURNAL = {Remote Sensing},
+VOLUME = {17},
+YEAR = {2025},
+NUMBER = {1},
+ARTICLE-NUMBER = {86},
+URL = {https://www.mdpi.com/2072-4292/17/1/86},
+ISSN = {2072-4292},
+DOI = {10.3390/rs17010086}
+}
+```
+
 Extended work from:
 
 ```
@@ -317,5 +333,4 @@ PAGES = {1125--1132},
 URL = {https://isprs-archives.copernicus.org/articles/XLIII-B2-2022/1125/2022/},
 DOI = {10.5194/isprs-archives-XLIII-B2-2022-1125-2022}
 }
-
 ```
